@@ -11,5 +11,6 @@ En este curso vemos de todo:
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos de Freddy Vega
 - Personalidades múltiples de Freddy Vega
+- Creado por el increíble Platzi Team
 
 Y como amable recordatorio este README.md es un chiste diseñado para el ejemplo. Si llegas a esto **NO TE LO TOMES EN SERIO** y mejor ve a [ver el curso.](https://platzi.com/clases/git-github/ "ver el curso.")
