@@ -13,5 +13,6 @@ En este curso vemos de todo:
 - Personalidades múltiples de Freddy Vega
 - Creado por el increíble Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 Y como amable recordatorio este README.md es un chiste diseñado para el ejemplo. Si llegas a esto **NO TE LO TOMES EN SERIO** y mejor ve a [ver el curso.](https://platzi.com/clases/git-github/ "ver el curso.")
